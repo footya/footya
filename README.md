@@ -1,4 +1,4 @@
-footya
+git
 ======
 
 my git test
