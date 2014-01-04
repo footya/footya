@@ -1,4 +1,4 @@
 git
 ======
 
-my git test
+hello git, wow it's wonderfull!
